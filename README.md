@@ -1,0 +1,2 @@
+# Small-python-verbal-game
+This small project is the python simple program here the simple if else statements and random function are executed where you can play with computer and score will be counted which makes one to be won at the last when all the chances viz. 10 chances will vanish. Its a Desi Language is used the program where you get the message after the chances will over that "Wapas khelna hain", LOL. So thats an interesting project and you will be enjoyed after you play it and learn something too as well. Read the code and enjoy.
